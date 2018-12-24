@@ -1,0 +1,54 @@
+https://raspberrypi.stackexchange.com/questions/10384/speech-processing-on-the-raspberry-pi/10392
+http://www.codesofinterest.com/2017/03/python-speech-recognition-pocketsphinx.html
+https://stackoverflow.com/questions/36523705/python-pocketsphinx-requesterror-missing-pocketsphinx-module-ensure-that-pockehttps://diyhacking.com/best-voice-recognition-software-for-raspberry-pi/
+https://www.rhydolabz.com/wiki/?p=16234
+https://howchoo.com/g/ztbhyzfknze/how-to-install-pocketsphinx-on-a-raspberry-pi
+sudo apt-get install espeak python-espeak
+https://stackoverflow.com/questions/36651738/pip-pyaudio-raspberry-pi-jessie-install-error
+https://stackoverflow.com/questions/36523705/python-pocketsphinx-requesterror-missing-pocketsphinx-module-ensure-that-pocke
+
+to find out sample rate of device:
+https://raspberrypi.stackexchange.com/questions/32454/error-when-running-pyaudio-test-file
+
+
+
+final:
+https://github.com/StevenHickson/PiAUISuite
+https://www.rhydolabz.com/wiki/?p=16234
+https://github.com/StevenHickson/PiAUISuite/issues/58
+
+
+commands:
+1)check internet connection first
+2)sudo voicecommand  :check all woring or not
+3)edit config file:
+4)sudo voicecommand -c
+
+
+alpha a== cd /home/pi/Desktop/brail/18_11_2017 && python alphaA.py
+alpha b== cd /home/pi/Desktop/brail/18_11_2017 && python alphaB.py
+alpha c== cd /home/pi/Desktop/brail/18_11_2017 && python alphaC.py
+alpha d== cd /home/pi/Desktop/brail/18_11_2017 && python alphaD.py
+alpha e== cd /home/pi/Desktop/brail/18_11_2017 && python alphaE.py
+alpha f== cd /home/pi/Desktop/brail/18_11_2017 && python alphaF.py
+alpha g== cd /home/pi/Desktop/brail/18_11_2017 && python alphaG.py
+alpha h== cd /home/pi/Desktop/brail/18_11_2017 && python alphaH.py
+alpha i== cd /home/pi/Desktop/brail/18_11_2017 && python alphaI.py
+alpha J== cd /home/pi/Desktop/brail/18_11_2017 && python alphaJ.py
+alpha k== cd /home/pi/Desktop/brail/18_11_2017 && python alphaK.py
+alpha l== cd /home/pi/Desktop/brail/18_11_2017 && python alphaL.py
+alpha m== cd /home/pi/Desktop/brail/18_11_2017 && python alphaM.py
+alpha n== cd /home/pi/Desktop/brail/18_11_2017 && python alphaN.py
+alpha o== cd /home/pi/Desktop/brail/18_11_2017 && python alphaO.py
+alpha p== cd /home/pi/Desktop/brail/18_11_2017 && python alphaP.py
+alpha q== cd /home/pi/Desktop/brail/18_11_2017 && python alphaQ.py
+alpha r== cd /home/pi/Desktop/brail/18_11_2017 && python alphaR.py
+alpha s== cd /home/pi/Desktop/brail/18_11_2017 && python alphaS.py
+alpha t== cd /home/pi/Desktop/brail/18_11_2017 && python alphaT.py
+alpha u== cd /home/pi/Desktop/brail/18_11_2017 && python alphaU.py
+alpha v== cd /home/pi/Desktop/brail/18_11_2017 && python alphaV.py
+alpha w== cd /home/pi/Desktop/brail/18_11_2017 && python alphaW.py
+alpha x== cd /home/pi/Desktop/brail/18_11_2017 && python alphaX.py
+alpha y== cd /home/pi/Desktop/brail/18_11_2017 && python alphaY.py
+alpha z== cd /home/pi/Desktop/brail/18_11_2017 && python alphaZ.py
+
